@@ -1,4 +1,4 @@
-# Exercice PowerShell — Filtrer un processus
+# Exercice PowerShell — Decouverte des objets
 
 ## Commandes utilisées
 ```powershell
